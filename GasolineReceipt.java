@@ -2,7 +2,7 @@ public class GasolineReceipt{
 	public static void main(String[] args){
 		//spacing on terminal in windows is off, does not print correctly
 		//if typing exactly what's in the book, spacing djusted here to reflect 
-		//desired output
+		//desired output, some weirdness with my text editor
 		System.out.println("+------------------------+" );
 		System.out.println("|                        |" );
 		System.out.println("|      CORNER STORE      |" );
