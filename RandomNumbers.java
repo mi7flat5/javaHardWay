@@ -17,15 +17,15 @@ public class RandomNumbers{
 		}
 		
 		//pick four random integers, each 1-10
-		a = 1 + (int)(10*Math.random());
-		b = 1+(int)(10* Math.random());
+		a = 1 +(int)(10*Math.random());
+		b = 1+ (int)(10* Math.random());
 		c = 1 +(int)(10* Math.random());
 		d = 1 +(int)(10*Math.random());
 		System.out.println("1-10: \t "+a+ "\t"+b+"\t"+c+"\t"+d);
 		
 		//pick four random integers, each 1-6
 		a = 1 + (int)(6*Math.random());
-		b = 1+(int)(6* Math.random());
+		b = 1+ (int)(6* Math.random());
 		c = 1 +(int)(6* Math.random());
 		d = 1 +(int)(6*Math.random());
 		System.out.println("1-6: \t "+a+ "\t"+b+"\t"+c+"\t"+d);
@@ -46,7 +46,7 @@ public class RandomNumbers{
 		
 		//pick four random numbers 10-20
 		a = 10 + (int)(11*Math.random());
-		b = 10+(int)(11* Math.random());
+		b = 10 +(int)(11* Math.random());
 		c = 10 +(int)(11* Math.random());
 		d = 10 +(int)(11*Math.random());
 		System.out.println("10-20: \t "+a+ "\t"+b+"\t"+c+"\t"+d);
